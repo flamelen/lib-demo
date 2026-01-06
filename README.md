@@ -1,6 +1,6 @@
-The demo of initial structure of library for analize GitHub contribution, for 2026 «ЦПМxЦУ» studntes.
+The demo of initial structure of library for analyze GitHub contribution, for 2026 «ЦПМxЦУ» students.
 
-Install envirement, after clonning, with:
+Install environment, after cloning, with:
 ```sh
 uv sync
 
